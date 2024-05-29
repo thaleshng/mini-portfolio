@@ -1,0 +1,5 @@
+@media (max-width: 320px) {
+    main .basic-infos .dev-role {
+        text-align: center;
+    }
+}
